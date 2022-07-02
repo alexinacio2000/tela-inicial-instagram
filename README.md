@@ -12,5 +12,5 @@ VERSÃO DESKTOP
 
 
 
-VERSÃO MOBILE
+VERSÃO MOBILE:
 ![image](https://user-images.githubusercontent.com/107261997/177011079-2f97df9c-2b66-49be-86c3-02045881cb9d.png)
